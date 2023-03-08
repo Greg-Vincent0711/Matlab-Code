@@ -1,5 +1,4 @@
 %Gregory Vincent
-%Textbook and Notes are the source for this code
 function [root] = BisectionSearch(F, a, b, delta)
 fnA = F(a);
 fnB = F(b);
