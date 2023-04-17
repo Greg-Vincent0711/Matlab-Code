@@ -1,1 +1,1 @@
-Implementing some basic functions in Matlab to get initial experience with the programming language. 
+Implementing some basic functions in Matlab to gain experience with the programming language. 
