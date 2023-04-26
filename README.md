@@ -1,1 +1,1 @@
-Implementing some basic functions in Matlab to gain experience with the syntax of the programming language.
+Implementing some functions in Matlab based on what I have learned in ICSI 401 - Numerical Methods in order to gain experience. 
